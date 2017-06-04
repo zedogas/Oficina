@@ -34,7 +34,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 		margin:auto;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(lampada_ligada.png?raw=true) no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -44,7 +44,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(lampada_desligada.png?raw=true) no-repeat left top;
 }
 
 div.rele2_ligado {
@@ -54,7 +54,7 @@ div.rele2_ligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(lampada_ligada.png?raw=true) no-repeat left top;
 }
 
 div.rele2_desligado {
@@ -64,7 +64,7 @@ div.rele2_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(lampada_desligada.png?raw=true) no-repeat left top;
 }
 
 #div1 {
